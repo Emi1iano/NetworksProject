@@ -1,7 +1,7 @@
 # NetworksProject
 A song syncer for clone hero so people can download each others songs
 
-#Intructions
+# Intructions
 In the server.py file change the songFolderPath to the location where your clone hero song directory is  
 In the client.py change the serverName to your friends IP address and the songFolderPath to the same location as the previous step  
 Start your server.py by running `python server.py`  
